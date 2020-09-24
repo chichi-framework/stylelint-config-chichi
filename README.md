@@ -1,2 +1,2 @@
-# eslint-config-chichi
-ESLint Configuration for the ChiChi Framework
+# stylelint-config-chichi
+Stylelint Configuration for the ChiChi Framework
